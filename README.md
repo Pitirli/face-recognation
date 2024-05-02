@@ -1,5 +1,4 @@
 # face-recognation
-
 import cv2
 
 # Create a camera connection
